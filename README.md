@@ -62,9 +62,10 @@ Dinajpur Polytechnic Institute — *Expected Completion: January 2025*
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohosin075&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohosin075" alt="GitHub Streak" />
 </p>
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohosin075&layout=compact&hide=css,html" alt="Top Languages" />
