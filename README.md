@@ -2,18 +2,11 @@
 <h2 align="center">Backend Developer | MERN Stack</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohosin075&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
   <a href="https://github.com/mohosin075" target="_blank">
     <img src="https://img.shields.io/github/followers/mohosin075?label=Follow&style=social" alt="GitHub Followers" />
   </a>
   <a href="https://www.linkedin.com/in/md-mohosin-5b34a0278/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
-  </a>
-  <a href="mailto:web.mohosin@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-yellow" alt="Email" />
   </a>
 </p>
 
@@ -50,30 +43,22 @@
 🎓 **Diploma in Computer Technology**  
 Dinajpur Polytechnic Institute — *Expected Completion: January 2025*
 
----
-
-### 🏆 Certifications
-
-- **MERN Stack Development** – FreeCodeCamp *(in progress)*
-- **React Development** – Udemy *(completed)*
-- **TypeScript Essentials** – Codecademy *(completed)*
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohosin075&show_icons=true&locale=en&layout=compact" alt="mohosin075" />
+</p>
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohosin075" alt="GitHub Streak" />
 </p>
 
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohosin075&layout=compact&hide=css,html" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohosin075&show_icons=true&locale=en" alt="mohosin075" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohosin075" alt="GitHub Streak" />
-</p>
 
 
 ---
@@ -83,8 +68,8 @@ Dinajpur Polytechnic Institute — *Expected Completion: January 2025*
 - 📧 **Email**: [web.mohosin@gmail.com](mailto:web.mohosin@gmail.com)
 - 🌐 **Portfolio**: [mohosin-portfolio.vercel.app](https://mohosin-portfolio.vercel.app/)
 - 💼 **LinkedIn**: [Md Mohosin](https://www.linkedin.com/in/md-mohosin-5b34a0278/)
-- 🧑‍💻 **GitHub**: [mohosin075](https://github.com/mohosin075)
 
 ---
 
-> “The best way to predict the future is to create it.” – Abraham Lincoln
+> **"Practice makes a man perfect."**
+
