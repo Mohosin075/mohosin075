@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Md Mohosin 👋</h1>
-<h2 align="center">Backend Developer | MERN Stack</h2>
+<h2 align="center">Backend Developer at SparkTech Agency</h2>
 
 <p align="center">
   <a href="https://github.com/mohosin075" target="_blank">
